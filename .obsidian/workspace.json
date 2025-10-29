@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f279e61f37b89602",
+        "id": "bf12920bb9b9e34d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb71567cf5a3ca2d",
+            "id": "b08e7692d7be916e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,8 +163,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "eb71567cf5a3ca2d",
+  "active": "b08e7692d7be916e",
   "lastOpenFiles": [
+    "docs/init_build.md",
     "docs/index.md",
     "docs/Pasted image 20251030001943.png",
     "Pasted image 20251030001721.png"
