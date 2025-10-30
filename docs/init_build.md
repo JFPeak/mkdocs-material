@@ -212,7 +212,7 @@ git push -u origin main
 
 最后一步，配置GitHub Pages的构建和部署分支：将 仓库Settings -> Pages -> Build and deployment -> Branch 设置为 gh-pages/(root)，点击 Save 保存设置。
 
-![image-20251030105915403](.\image\image-20251030105915403.png)
+![image-20251030105915403](image\image-20251030105915403.png)
 
 ⚠️注意：
 
