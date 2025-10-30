@@ -15,6 +15,8 @@ Windows系统预先从官网安装好[Python3](https://www.python.org/downloads/
 以管理员身份打开vscode软件，在**合适的文件夹**内打开终端，在终端中输入：
 
 ```shell
+# 转到工作目录
+cd D:\MKdoc
 # 转入虚拟环境
 \venv\Scripts\activate
 
